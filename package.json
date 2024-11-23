@@ -1,0 +1,23 @@
+{
+  "name": "jira-apis",
+  "version": "1.0.0",
+  "description": "Use JIRA apis to customize according to our needs. Make the process faster.",
+  "main": "jiraAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-shahjahan/jiraApis.git"
+  },
+  "keywords": [
+    "JIRA",
+    "JiraAPIs"
+  ],
+  "author": "Syed Shahjahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-shahjahan/jiraApis/issues"
+  },
+  "homepage": "https://github.com/syed-shahjahan/jiraApis#readme"
+}
