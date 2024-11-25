@@ -4,11 +4,12 @@
   "description": "Use JIRA apis to customize according to our needs. Make the process faster.",
   "main": "jiraAPI.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node closeSubTaskAPI.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syed-shahjahan/jiraApis.git"
+    "url": "git+https://github.com/syed-shahjahan/JIRA-Handling.git"
   },
   "keywords": [
     "JIRA",
@@ -17,7 +18,7 @@
   "author": "Syed Shahjahan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/syed-shahjahan/jiraApis/issues"
+    "url": "https://github.com/syed-shahjahan/JIRA-Handling/issues"
   },
-  "homepage": "https://github.com/syed-shahjahan/jiraApis#readme"
+  "homepage": "https://github.com/syed-shahjahan/JIRA-Handling#readme"
 }
